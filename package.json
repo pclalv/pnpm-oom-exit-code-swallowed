@@ -1,0 +1,9 @@
+{
+  "engines": {
+    "node": "18.11.0",
+    "pnpm": "7.13.5"
+  },
+  "scripts": {
+    "bash": "bash"
+  }
+}
